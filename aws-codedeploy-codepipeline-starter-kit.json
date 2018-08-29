@@ -634,7 +634,7 @@
       "DependsOn" : "JenkinsServer",
       "Properties" : {
         "Handle"  : { "Ref" : "JenkinsHostWaitHandle" },
-        "Timeout" : "600"
+        "Timeout" : "3600"
       }
     },
 
